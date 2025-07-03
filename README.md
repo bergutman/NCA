@@ -12,3 +12,15 @@ PRs welcome for:
 - Supplementary media (datasets, graphics, etc.)  
 
 Goal: Build a complete, open-source archive of NCA data.
+
+### DIRECT DOWNLOAD LINKS:
+
+[First National Climate Assessment (NCA1) 2000](https://github.com/bergutman/NCA/raw/refs/heads/main/1/nca-2000-report-overview.pdf?download=)
+
+[Third National Climate Assessment (NCA3) 2014](https://github.com/bergutman/NCA/raw/refs/heads/main/3/noaa_19485_DS1.pdf?download=)
+
+[Fourth National Climate Assessment (NCA4) 2017/2018: Volume I](https://github.com/bergutman/NCA/raw/refs/heads/main/4/noaa_19486_DS1.pdf?download=)
+
+[Fourth National Climate Assessment (NCA4) 2017/2018: Volume II](https://github.com/bergutman/NCA/raw/refs/heads/main/4/noaa_19487_DS1.pdf?download=)
+
+[Fifth National Climate Assessment (NCA5) 2023](https://github.com/bergutman/NCA/raw/refs/heads/main/5/noaa_61592_DS1.pdf?download=)
