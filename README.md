@@ -8,33 +8,33 @@ This repo contains mirrors of NCA reports 1–5 after [globalchange.gov was take
 - **Report 2 is missing**—help locate a copy!
 
 ### Directory Map
-
+````markdown
 ├── 1
 │   ├── README.md
-│   └── nca-2000-report-overview.pdf **(NCA 1 PDF)**
+│   └── nca-2000-report-overview.pdf (NCA 1 PDF)
 ├── 2
 │   └── README.md
 ├── 3
 │   ├── README.md
 │   ├── checksum.txt
 │   ├── citation.txt
-│   └── noaa_19485_DS1.pdf **(NCA 3 PDF)**
+│   └── noaa_19485_DS1.pdf (NCA 3 PDF)
 ├── 4
 │   ├── README.md
 │   ├── checksum.txt
 │   ├── citation.txt
-│   ├── noaa_19486_DS1.pdf **(NCA 4: Volume I PDF)**
-│   └── noaa_19487_DS1.pdf **(NCA 4: Volume II PDF)**
+│   ├── noaa_19486_DS1.pdf (NCA 4: Volume I PDF)
+│   └── noaa_19487_DS1.pdf (NCA 4: Volume II PDF)
 ├── 5
 │   ├── README.md
 │   ├── checksum.txt
 │   ├── citation.txt
-│   ├── figures **(Collection of media from NCA 5)**
+│   ├── figures (Collection of media from NCA 5)
 │   │   ├── a1_1.jpg
 │   │   ├── ...
-│   └── noaa_61592_DS1.pdf **(NCA 5 PDF)**
+│   └── noaa_61592_DS1.pdf (NCA 5 PDF)
 └── README.md
-
+````
 
 ### Contribute  
 PRs welcome for:  
