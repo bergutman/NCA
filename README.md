@@ -3,9 +3,8 @@
 This repo contains mirrors of NCA reports 1–5 after [globalchange.gov was taken offline](https://www.npr.org/2025/07/01/nx-s1-5453501/national-climate-assessment-nca5-archive-report) by the Trump administration.  
 
 ### Archival Status  
-- Reports 1, 3, 4, and 5 have been archived with matching checksums & citations.
+- Reports 1, 2, 3, 4, and 5 have been archived.
 - A large collection of figures from NCA 5 have been archived (americanresiliency.org).
-- **Report 2 is missing**—help locate a copy!
 
 ### Directory Map
 ````markdown
@@ -13,6 +12,7 @@ This repo contains mirrors of NCA reports 1–5 after [globalchange.gov was take
 │   ├── README.md
 │   └── nca-2000-report-overview.pdf (NCA 1 PDF)
 ├── 2
+│   ├── climate-impacts-report.pdf (NCA 2 PDF)
 │   └── README.md
 ├── 3
 │   ├── README.md
@@ -38,7 +38,6 @@ This repo contains mirrors of NCA reports 1–5 after [globalchange.gov was take
 
 ### Contribute  
 PRs welcome for:  
-- Missing reports (especially NCA2)  
 - Supplementary media (datasets, graphics, etc.)  
 
 Goal: Build a complete, open-source archive of NCA data.
@@ -46,6 +45,8 @@ Goal: Build a complete, open-source archive of NCA data.
 ### DIRECT DOWNLOAD LINKS:
 
 [First National Climate Assessment (NCA1) 2000](https://github.com/bergutman/NCA/raw/refs/heads/main/1/nca-2000-report-overview.pdf?download=)
+
+[Second National Climate Assessment (NCA2) 2009](https://github.com/bergutman/NCA/raw/refs/heads/main/2/climate-impacts-report.pdf?download=)
 
 [Third National Climate Assessment (NCA3) 2014](https://github.com/bergutman/NCA/raw/refs/heads/main/3/noaa_19485_DS1.pdf?download=)
 
